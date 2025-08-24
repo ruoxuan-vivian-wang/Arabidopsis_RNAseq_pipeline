@@ -18,8 +18,8 @@ A reproducible and easy-to-use RNA-seq analysis pipeline for **quality control, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ruoxuan-vivian-wang/rnaseq-pipeline.git
-cd rnaseq-pipeline
+git clone git clone https://github.com/ruoxuan-vivian-wang/Arabidopsis_RNAseq_pipeline.git
+cd Arabidopsis_RNAseq_pipeline
 ```
 
 ### 2. Setup environment (Micromamba / Conda)
